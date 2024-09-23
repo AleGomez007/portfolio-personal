@@ -1,0 +1,109 @@
+body{
+    margin: 0;
+    font-family: 'Courier', sans-serif;
+    color: rgb(54, 54, 54);
+}
+
+header{
+    height: 75px;
+    background-color: #a7a7a7;
+    color: rgb(54, 54, 54);
+    display: flex;
+    align-items: center;
+    padding-left: 50px;
+}
+
+.parteUno{
+    background-color: #bcdab8;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.parteDos{
+    background-color: #c1d8bd;
+    height: 300px;
+    display: flex;
+    padding-left: 50px;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.parteTres{
+    background-color: #c2d6bd;
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.parteCuatro{
+    background-color: #a7a7a7;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.parteCinco{
+    background-color: #a7a7a7;
+    height: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 50px;
+}
+
+.parteSeis{
+    background-color: #a7a7a7;
+    height: 250px;
+    --display: flex;
+   -- flex-direction: column;
+    justify-content: center;
+    padding-left: 10px;
+}
+
+footer{
+    background-color: #141414;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+
+.foto{
+    border-radius: 500px;
+    height: 200px;
+}
+
+.fotoEmpresas{
+    border-radius: 30px;
+}
+
+.imgTechs{
+    border-radius: 20px;
+}
+
+
+.Contactos{
+    width: 30%;
+    display: flex;
+    justify-content: center;
+}
+
+.caja-comentarios{
+    background-color: #141414;
+    color: white;
+    width: 60%;
+    border-radius: 20px;
+    overflow: visible;
+    height: 40%;
+    justify-content: center;
+}
